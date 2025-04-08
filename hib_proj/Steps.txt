@@ -1,4 +1,4 @@
-step1:download the jars files from https://sourceforge.net/projects/hibernate/
+step1:download the jars files from https://sourceforge.net/projects/hibernate/files/hibernate-orm/5.6.0.Final/hibernate-release-5.6.0.Final.zip/download
 step2:Create a java Project in eclipse ide
 	File->New->Java Project
 	name your project
