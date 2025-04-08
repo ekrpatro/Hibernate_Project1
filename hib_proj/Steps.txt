@@ -1,0 +1,23 @@
+step1:download the jars files from https://sourceforge.net/projects/hibernate/
+step2:Create a java Project in eclipse ide
+	File->New->Java Project
+	name your project
+step3: import the jar files in classpath
+	rightclick on project->Build_path->Configure Build_path
+	->Libraries->Classpath->Add External jar files
+	(Select your folder where jar files are there)
+	Apply and close
+step4: Write 4 programs
+	->Emp.java(Bean class)
+	->EmpClient.java(Driver Code with menu for crud)
+	->Emp.hbm.xml(Configure with mysql table)
+	->hibernate.cfg.xml(configure the MySQL username,password)
+GitLink=
+https://github.com/ekrpatro/Hibernate_Project1/tree/main/hib_proj
+
+
+
+
+
+
+
